@@ -1,0 +1,2 @@
+# cmpscx
+Computer Science Exploration 
